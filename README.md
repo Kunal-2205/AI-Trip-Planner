@@ -125,17 +125,6 @@ app/
 streamlit_app.py  # Wayfarer frontend
 ```
 
-## Testing
-
-The repository includes small scripts for checking individual planner components:
-
-```bash
-python test.py
-python test_hotel.py
-python test_route.py
-python test_transport.py
-```
-
 ## License
 
 No license has been specified yet. Add one before distributing or reusing the project publicly.
